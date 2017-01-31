@@ -1,0 +1,13 @@
+{
+  "name": "discards",
+  "version": "0.0.0",
+  "description": "Discord bot to play cards against humanity",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "request": "^2.79.0",
+    "request-promise-native": "^1.0.3"
+  }
+}
